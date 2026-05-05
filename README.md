@@ -1,4 +1,4 @@
-**ClimAVA‑SWE**
+**ClimAVA‑SWE Dataset**
 
 ClimAVA‑SWE: A High‑Resolution CMIP6‑Based Snow Water Equivalent Dataset for the Western United States
 The ClimAVA‑SWE dataset provides high‑resolution (4 km) daily snow water equivalent (SWE) projections for the western United States derived from 14 CMIP6 General Circulation Models (GCMs). The dataset includes projections for three Shared Socioeconomic Pathways (SSP245, SSP370, and SSP585) and is intended to support climate impact, hydrologic, water‑resources, and adaptation studies in snow‑dominated regions.
@@ -14,19 +14,33 @@ The full gridded dataset itself is archived separately in a public data reposito
 **Repository structure:**
 
 ClimAVA‑SWE/
+
 ├── README.md
+
 ├── Scripts/
+
 │   ├── 1.downloading/
+
 │   ├── 2.reference_process/
+
 │   ├── 3.subset_cmip6/
+
 │   ├── 4.bias_correction/
+
 │   ├── 5.resample/
+
 │   ├── 6.validation/
+
 │   ├── 7.downscaling/
+
 │   └── 8.figures/
+
 ├── csv_files/
+
 ├── guides/
+
 └── shapefiles/
+
 
 
 **Directory descriptions**
