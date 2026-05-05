@@ -11,8 +11,6 @@ ClimAVA-SWE/
 
 ├── scripts/
 
-
-
 │   ├── 1.downloading/
 
 │   ├── 2.reference_process/
