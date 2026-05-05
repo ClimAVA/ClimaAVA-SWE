@@ -23,17 +23,17 @@ ClimAVA‑SWE/
 
 │ >  ├── 2.reference_process/
 
-│   ├── 3.subset_cmip6/
+│  > ├── 3.subset_cmip6/
 
-│   ├── 4.bias_correction/
+│ >  ├── 4.bias_correction/
 
-│   ├── 5.resample/
+│  > ├── 5.resample/
 
-│   ├── 6.validation/
+│ >  ├── 6.validation/
 
-│   ├── 7.downscaling/
+│  > ├── 7.downscaling/
 
-│   └── 8.figures/
+│ >  └── 8.figures/
 
 ├── csv_files/
 
