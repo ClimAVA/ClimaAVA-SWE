@@ -18,11 +18,9 @@ ClimAVA‑SWE/
 ├── README.md
 
 ├── Scripts/
+│ >  ├── 1.downloading/
 
-│  
-├── 1.downloading/
-
-│   ├── 2.reference_process/
+│ >  ├── 2.reference_process/
 
 │   ├── 3.subset_cmip6/
 
